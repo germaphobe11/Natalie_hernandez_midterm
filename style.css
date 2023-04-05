@@ -1,0 +1,87 @@
+div.content {
+  height: 100px;
+  width: 900px;
+  border: 5px solid #000000;
+  font-size: 40px;
+  text-align: center;
+  margin: 30px;
+  float: center;
+}
+
+div#one {
+  background-color: #ff0000;
+}
+
+div#two {
+  background-color: rgb(206, 2, 2);
+}
+
+div#three {
+  background-color: rgb(221, 43, 11);
+  color: antiquewhite;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+div#four {
+  background-color: rgb(221, 43, 11);
+  height: 700px;
+  width: 900px;
+  border: 10px solid #000000;
+  font size: 40px;
+  text-align: center;
+  color: antiquewhite;
+  float: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+div#five{
+background-color:palegoldenrod;
+height: 100px;
+width; 100px;
+border: 5px solid #000000;
+font size: 30pxpx;
+text-align: center;
+color: black;
+float: center;
+
+
+}
+
+div#six{
+background-color: rgb(145, 1, 1);
+height:60px;
+width: 200px;
+padding-top: 20px;
+padding-bottom: 10px;
+border: 3px solid #000000;
+font size: 3px;
+float: center;
+text-align: center;
+
+
+
+}
+
+span{
+  border: 1px solid greenyellow;'
+  
+}
+body
+
+
+
+ {
+  background-image: url("images/money.jpg");
+  }
+
+
+  a:link {
+    color: #ad1010;
+  }
+  a:visited {
+    color: chartreuse;
+  }
+  
+}
